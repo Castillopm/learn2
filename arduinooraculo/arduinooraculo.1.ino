@@ -6,7 +6,7 @@ const int ledAmarillo = 7;
 String miPregunta;
 String s1 = "¡Claro que sí!";
 String s2 = "¡Ni de broma!";
-String s3 = "¿Qué sabe nadieeee?";
+String s3 = "Eso no lo se, pero estás a punto de quedarte calvo";
 String s4 = "Si te esperas un momento, lo busco en Google";
 
 int Brillo = 0;
